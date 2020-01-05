@@ -1,0 +1,46 @@
+_repo: L-oeuvre-de-John-Cleland-Memoires-de-Fanny-Hill-femme-de-plaisir-Introduction-essai-bibliogra__61091
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - De Kostrowisky, Guillaume
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - Kostrowitzky, Wilhelm Apollinaris de
+    - Kostrowisky, Guillaume de
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Guillaume_Apollinaire
+    - https://fr.wikipedia.org/wiki/Guillaume_Apollinaire
+  illustrator:
+    agent_name: Hogarth, William
+    birthdate: 1697
+    deathdate: 1764
+    gutenberg_agent_id: '36364'
+    url: http://www.gutenberg.org/2009/agents/36364
+creator:
+  author:
+    agent_name: Cleland, John
+    birthdate: 1709
+    deathdate: 1789
+    gutenberg_agent_id: '9040'
+    url: http://www.gutenberg.org/2009/agents/9040
+    wikipedia: http://en.wikipedia.org/wiki/John_Cleland
+description: ''
+gutenberg_issued: '2020-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61091'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'L''oeuvre de John Cleland: Mémoires de Fanny Hill, femme de plaisir
+
+  Introduction, essai bibliographique par Guillaume Apollinaire'
+url: http://www.gutenberg.org/ebooks/61091
