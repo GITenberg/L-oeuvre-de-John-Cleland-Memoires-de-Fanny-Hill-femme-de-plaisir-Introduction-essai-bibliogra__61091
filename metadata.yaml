@@ -1,5 +1,5 @@
 _repo: L-oeuvre-de-John-Cleland-Memoires-de-Fanny-Hill-femme-de-plaisir-Introduction-essai-bibliogra__61091
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Apollinaire, Guillaume
@@ -21,6 +21,9 @@ contributor:
     deathdate: 1764
     gutenberg_agent_id: '36364'
     url: http://www.gutenberg.org/2009/agents/36364
+covers:
+- cover_type: archival
+  image_path: 61091-h/images/cover.jpg
 creator:
   author:
     agent_name: Cleland, John
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9040
     wikipedia: http://en.wikipedia.org/wiki/John_Cleland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61091#L-oeuvre-de-John-Cleland-Memoires-de-Fanny-Hill-femme-de-plaisir-Introduction-essai-bibliogra_
 gutenberg_issued: '2020-01-03'
 gutenberg_type: Text
 identifiers:
